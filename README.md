@@ -1,6 +1,6 @@
 # PY_SALES_FORECAST_RF
 
-This project forecasts daily sales for specific food items using historical sales data, holiday information, and weather data. It leverages machine learning (XGBoost) and external APIs for feature enrichment.
+This project forecasts daily sales for specific food items using historical sales data, holiday information, and weather data. It leverages machine learning (XGBoost/Random Forest) and external APIs for feature enrichment.
 
 ## Features
 
