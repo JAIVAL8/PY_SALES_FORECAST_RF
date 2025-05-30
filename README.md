@@ -64,9 +64,3 @@ This project forecasts daily sales for specific food items using historical sale
 - Forecast vs. actual sales plot for the selected dish
 
 ---
-
-**Author:**  
-[Your Name]
-
-**License:**  
-[Specify your license, if any]
